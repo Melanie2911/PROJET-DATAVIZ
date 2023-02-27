@@ -1,6 +1,6 @@
 # PROJET-DATAVIZ
 
-This project aimed to choose a dataset (e.g., open data) to create a Tableau workbook with three worksheets. The data should be real, organized into one or more tables, regardless of their technical format.
+The goal of this project was to choose a dataset (e.g., open data) to create a Tableau workbook with three worksheets. The data should be real, organized into one or more tables, regardless of their technical format.
 
 The worksheets must meet the following conditions:
 
